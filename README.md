@@ -1,3 +1,12 @@
+<h1 align='center'>Gayain <br>Fashion Web Application</h1>
+
+<p align='center'>
+    <img width="800" src='https://user-images.githubusercontent.com/61218212/78588312-95993880-7868-11ea-9fb4-d590a3e122bb.png' />
+</p>
+
+<br>
+<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
